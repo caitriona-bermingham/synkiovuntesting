@@ -241,7 +241,7 @@
 <dependency>
     <groupId>org.apache.activemq</groupId>
     <artifactId>activemq-pool</artifactId>
-    <version>5.10.2</version>
+    <version>5.15.6</version>
 </dependency>
 
 
@@ -1489,14 +1489,14 @@
 <dependency>
     <groupId>org.springframework.retry</groupId>
     <artifactId>spring-retry</artifactId>
-    <version>1.1.2.RELEASE</version>
+    <version>1.3.1</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-config -->
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-config</artifactId>
-    <version>4.1.0.RELEASE</version>
+    <version>5.2.14.RELEASE</version>
 </dependency>
 
 
@@ -1504,14 +1504,14 @@
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-core</artifactId>
-    <version>4.1.0.RELEASE</version>
+    <version>5.2.14.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-taglibs -->
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-taglibs</artifactId>
-    <version>4.1.0.RELEASE</version>
+    <version>5.2.14.RELEASE</version>
 </dependency>
 
 
@@ -1519,7 +1519,7 @@
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-web</artifactId>
-    <version>4.1.0.RELEASE</version>
+    <version>5.2.14.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-struts -->
