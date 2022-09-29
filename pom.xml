@@ -949,7 +949,7 @@
 <dependency>
     <groupId>org.codehaus.jettison</groupId>
     <artifactId>jettison</artifactId>
-    <version>1.2</version>
+    <version>1.5.1</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.mortbay.jetty/jetty -->
@@ -1259,7 +1259,7 @@
 <dependency>
     <groupId>org.springframework.batch</groupId>
     <artifactId>spring-batch-core</artifactId>
-    <version>3.0.7.RELEASE</version>
+    <version>4.3.7</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework.batch/spring-batch-infrastructure -->
