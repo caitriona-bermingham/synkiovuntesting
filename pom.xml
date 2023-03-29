@@ -949,7 +949,7 @@
 <dependency>
     <groupId>org.codehaus.jettison</groupId>
     <artifactId>jettison</artifactId>
-    <version>1.2</version>
+    <version>1.5.4</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.mortbay.jetty/jetty -->
@@ -1259,7 +1259,7 @@
 <dependency>
     <groupId>org.springframework.batch</groupId>
     <artifactId>spring-batch-core</artifactId>
-    <version>3.0.7.RELEASE</version>
+    <version>4.3.7</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework.batch/spring-batch-infrastructure -->
@@ -1309,7 +1309,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-context</artifactId>
-    <version>3.2.11.RELEASE</version>
+    <version>5.2.23.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
@@ -1324,7 +1324,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-context</artifactId>
-    <version>4.3.16.RELEASE</version>
+    <version>5.2.23.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
@@ -1352,7 +1352,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-context</artifactId>
-    <version>3.2.11.RELEASE</version>
+    <version>5.2.23.RELEASE</version>
 </dependency>
 
 
@@ -1360,14 +1360,14 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-expression</artifactId>
-    <version>3.2.11.RELEASE</version>
+    <version>5.2.23.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-expression -->
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-expression</artifactId>
-    <version>4.3.16.RELEASE</version>
+    <version>5.2.23.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/io.springfox/springfox-core -->
@@ -1562,7 +1562,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>4.3.16.RELEASE</version>
+    <version>5.2.23.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc-portlet -->
