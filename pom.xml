@@ -1309,7 +1309,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-context</artifactId>
-    <version>3.2.11.RELEASE</version>
+    <version>5.2.24.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
@@ -1324,7 +1324,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-context</artifactId>
-    <version>4.3.16.RELEASE</version>
+    <version>5.2.24.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
@@ -1352,7 +1352,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-context</artifactId>
-    <version>3.2.11.RELEASE</version>
+    <version>5.2.24.RELEASE</version>
 </dependency>
 
 
@@ -1360,14 +1360,14 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-expression</artifactId>
-    <version>3.2.11.RELEASE</version>
+    <version>5.2.24.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-expression -->
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-expression</artifactId>
-    <version>4.3.16.RELEASE</version>
+    <version>5.2.24.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/io.springfox/springfox-core -->
@@ -1504,14 +1504,14 @@
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-core</artifactId>
-    <version>4.1.0.RELEASE</version>
+    <version>5.7.8</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-taglibs -->
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-taglibs</artifactId>
-    <version>4.1.0.RELEASE</version>
+    <version>5.7.8</version>
 </dependency>
 
 
@@ -1519,7 +1519,7 @@
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-web</artifactId>
-    <version>4.1.0.RELEASE</version>
+    <version>5.7.8</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-struts -->
@@ -1562,7 +1562,7 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>4.3.16.RELEASE</version>
+    <version>5.2.24.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc-portlet -->
