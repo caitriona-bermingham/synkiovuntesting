@@ -1135,7 +1135,7 @@
 <dependency>
     <groupId>org.reflections</groupId>
     <artifactId>reflections</artifactId>
-    <version>0.9.11</version>
+    <version>0.9.12</version>
 </dependency>
 
 
@@ -1374,7 +1374,7 @@
 <dependency>
     <groupId>io.springfox</groupId>
     <artifactId>springfox-core</artifactId>
-    <version>2.9.2</version>
+    <version>2.10.0</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/io.springfox/springfox-schema -->
@@ -1395,7 +1395,7 @@
 <dependency>
     <groupId>io.springfox</groupId>
     <artifactId>springfox-spring-web</artifactId>
-    <version>2.9.2</version>
+    <version>2.10.0</version>
 </dependency>
 
 
@@ -1403,14 +1403,14 @@
 <dependency>
     <groupId>io.springfox</groupId>
     <artifactId>springfox-swagger2</artifactId>
-    <version>2.9.2</version>
+    <version>2.10.0</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/io.springfox/springfox-swagger-common -->
 <dependency>
     <groupId>io.springfox</groupId>
     <artifactId>springfox-swagger-common</artifactId>
-    <version>2.9.2</version>
+    <version>2.10.0</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/io.springfox/springfox-swagger-ui -->
