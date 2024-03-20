@@ -1496,7 +1496,7 @@
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-config</artifactId>
-    <version>4.1.0.RELEASE</version>
+    <version>5.7.12</version>
 </dependency>
 
 
@@ -1504,14 +1504,14 @@
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-core</artifactId>
-    <version>4.1.0.RELEASE</version>
+    <version>5.7.12</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-taglibs -->
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-taglibs</artifactId>
-    <version>4.1.0.RELEASE</version>
+    <version>5.8.11</version>
 </dependency>
 
 
@@ -1519,7 +1519,7 @@
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-web</artifactId>
-    <version>4.1.0.RELEASE</version>
+    <version>5.8.11</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-struts -->
@@ -1555,14 +1555,14 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-web</artifactId>
-    <version>4.2.6.RELEASE</version>
+    <version>5.3.33</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-webmvc</artifactId>
-    <version>4.3.16.RELEASE</version>
+    <version>5.3.33</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc-portlet -->
