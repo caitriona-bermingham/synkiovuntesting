@@ -556,7 +556,7 @@
 <dependency>
     <groupId>commons-io</groupId>
     <artifactId>commons-io</artifactId>
-    <version>2.5</version>
+    <version>2.14.0</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/commons-jxpath/commons-jxpath -->
@@ -1273,7 +1273,7 @@
 <dependency>
     <groupId>org.springframework.batch</groupId>
     <artifactId>spring-batch-test</artifactId>
-    <version>3.0.7.RELEASE</version>
+    <version>4.0.2.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-beans -->
